@@ -82,7 +82,7 @@ All phases contain PDF documentation that can be viewed with any PDF reader:
 
 ## Team Members
 - Gona Teja
-- Verra Manikanta Miriyala
+- Veera Manikanta Miriyala
 - Vineeth Parchuri
 - Siva Sirikoti
 
