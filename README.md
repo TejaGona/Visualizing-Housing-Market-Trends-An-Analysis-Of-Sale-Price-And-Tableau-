@@ -4,14 +4,14 @@
 This project focuses on visualizing housing market trends through comprehensive data analysis and interactive dashboards. The repository contains all phases of the project development lifecycle, from initial ideation to final execution, including assignments, requirement analysis, design documentation, and executable files with visualizations.
 
 ## Project Structure
-1. [Assignments](./1.%20Assignments) - Individual team member assignments  
-2. [Ideation Phase](./2.%20Ideation%20Phase) - Brainstorming and problem identification  
-3. [Requirement Analysis](./3.%20Requirement%20Analysis) - System requirements and user stories  
-4. [Project Design Phase](./4.%20Project%20Design%20Phase) - Solution architecture and design  
-5. [Project Planning Phase](./5.%20Project%20Planning%20Phase) - Project timeline and planning  
-6. [Project Executable Files](./6.%20Project%20Executable%20Files) - Main visualization files and data  
-7. [Functional And Performance Testing](./7.%20Functional%20And%20Performance%20Testing) - Testing documentation  
-8. [Doc and Demo](./8.%20Doc%20and%20Demo) - Final report and demonstration
+[Assignments](./1.%20Assignments) - Individual team member assignments  
+1. [Ideation Phase](./2.%20Ideation%20Phase) - Brainstorming and problem identification  
+2. [Requirement Analysis](./3.%20Requirement%20Analysis) - System requirements and user stories  
+3. [Project Design Phase](./4.%20Project%20Design%20Phase) - Solution architecture and design  
+4. [Project Planning Phase](./5.%20Project%20Planning%20Phase) - Project timeline and planning  
+5. [Project Development Phase](./6.%20Project%20Development%20Phase) - Main visualization files and data  
+7. [Project Demonstration](./7.%20Project%20Demonstration) - Testing documentation
+[Assignments](./1.%20Assignments) - Individual team member assignments   
 
 ## Key Components
 
