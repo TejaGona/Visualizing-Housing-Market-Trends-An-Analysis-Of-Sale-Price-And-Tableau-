@@ -84,7 +84,7 @@ All phases contain PDF documentation that can be viewed with any PDF reader:
 - Gona Teja
 - Veera Manikanta Miriyala
 - Vineeth Parchuri
-- Siva Sirikoti
+- Siva Sirikoti 
 
 ## Results
 This project delivers comprehensive housing market trend visualizations that help stakeholders understand:
