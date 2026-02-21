@@ -48,8 +48,8 @@ This project focuses on visualizing housing market trends through comprehensive 
 - CSV file reader/editor
 
 ### Accessing Visualizations
-1. Navigate to "6. Project Executable Files/"
-2. Open "Twbx_SheetsDashboardStory.twb" in Tableau
+1. Navigate to "7. Project Demonstration/"
+2. Open in Tableau
 3. Explore dashboards and stories using the transformed housing data
 
 ### Viewing Documentation
@@ -106,4 +106,5 @@ This project follows standard academic collaboration practices. For improvements
 - Academic institution for project guidance
 - Tableau for visualization platform
 
-**Note:** For demo video and final report, refer to "8. Doc and Demo/" folder
+**Note:** For demo video, 7. Project demonstration
+final report, refer to "6. Project and Documentation/" folder
